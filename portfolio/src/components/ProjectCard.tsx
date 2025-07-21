@@ -6,7 +6,11 @@ import styled from 'styled-components';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Project } from '@/types';
 
-const Card = styled(motion.div)`
+interface CardProps {
+  category: string;
+}
+
+const Card = styled(motion.div)<CardProps>`
   background: var(--card-bg);
   border-radius: 12px;
   padding: 2rem;
@@ -330,7 +334,6 @@ const cardVariants = {
     scale: 1,
     transition: {
       duration: 0.5,
-      ease: 'easeOut'
     }
   }
 };

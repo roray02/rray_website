@@ -188,10 +188,6 @@ const introVariants = {
   },
   exit: {
     opacity: 0,
-    transition: {
-      duration: 0.8,
-      ease: 'easeOut',
-    },
   },
 };
 
@@ -227,10 +223,6 @@ const itemVariants = {
   visible: {
     y: 0,
     opacity: 1,
-    transition: {
-      duration: 0.6,
-      ease: 'easeOut',
-    },
   },
 };
 
@@ -241,7 +233,6 @@ const imageVariants = {
     opacity: 1,
     transition: {
       duration: 0.8,
-      ease: 'easeOut',
       delay: 0.3,
     },
   },

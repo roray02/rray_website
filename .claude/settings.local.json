@@ -10,7 +10,8 @@
       "WebFetch(domain:github.com)",
       "Bash(copy:*)",
       "WebFetch(domain:pubmed.ncbi.nlm.nih.gov)",
-      "Bash(git update-ref:*)"
+      "Bash(git update-ref:*)",
+      "Bash(npm run build:*)"
     ],
     "deny": []
   }

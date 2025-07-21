@@ -323,7 +323,7 @@ export default function ContactPage() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.2 }}
         >
-          Let's discuss opportunities in bioinformatics, software engineering, or research collaboration
+          Let&apos;s discuss opportunities in bioinformatics, software engineering, or research collaboration
         </Subtitle>
       </Header>
 
@@ -386,7 +386,7 @@ export default function ContactPage() {
               initial={{ opacity: 0, y: -10 }}
               animate={{ opacity: 1, y: 0 }}
             >
-              Thank you for your message! I'll get back to you soon.
+              Thank you for your message! I&apos;ll get back to you soon.
             </SuccessMessage>
           )}
           

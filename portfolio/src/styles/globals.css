@@ -1,0 +1,79 @@
+@font-face {
+  font-family: 'Satoshi';
+  src: url('/Satoshi-Variable.ttf') format('truetype-variations');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --primary-bg: #0a0a0a;
+  --secondary-bg: #111111;
+  --card-bg: #1a1a1a;
+  --primary-text: #ffffff;
+  --secondary-text: #a0a0a0;
+  --accent: #3b82f6;
+  --accent-hover: #2563eb;
+  --border: #333333;
+  --gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Satoshi', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background-color: var(--primary-bg);
+  color: var(--primary-text);
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--primary-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--secondary-text);
+}
+
+/* Selection styling */
+::selection {
+  background: var(--accent);
+  color: var(--primary-text);
+}
+
+/* Focus outline */
+*:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}

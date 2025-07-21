@@ -1,0 +1,65 @@
+[
+  {
+    "id": "medscribes",
+    "company": "MedScribes",
+    "position": "Chief Medical Scribe - REX Hospital Emergency Department",
+    "location": "Raleigh, NC",
+    "startDate": "Feb 2023",
+    "endDate": "Nov 2024",
+    "type": "clinical experience",
+    "description": [
+      "Documented medical records for 3,000+ ER patients, gaining extensive familiarity with structured clinical data and Epic EMR systems",
+      "Interpreted and flagged critical lab anomalies for ER physicians, contributing to real-time clinical decision-making for patients with varying acuity",
+      "Trained batch of 10+ new scribes in medical terminology, EMR workflows, and chart documentation protocols; organized sessions on Epic proficiency",
+      "Produced e-learning modules to onboard scribes in documentation standards using Moodle LMS"
+    ]
+  },
+  {
+    "id": "unc-neuroscience",
+    "company": "UNC Department Of Neuroscience • Christoffel Lab",
+    "position": "Undergraduate Research Assistant - Honors Thesis Student",
+    "location": "Chapel Hill, NC",
+    "startDate": "Aug 2023",
+    "endDate": "May 2024",
+    "type": "research",
+    "description": [
+      "Authored <a href='https://cdr.lib.unc.edu/concern/honors_theses/3b591m44h?locale=en' target='_blank' rel='noopener noreferrer'>senior thesis</a> on the development of an automated behavioral classifier (ABC) for aggression and social interaction in ASD (autism spectrum disorder) mouse models using DeepLabCut-based locomotion metrics",
+      "Defended thesis to a neuroscience faculty panel led by Dr. Daniel Christoffel, showcasing classifier performance and validation techniques on previously untested videos of ASD model mice interacting with wildtype mice. ABC was 15% more accurate at identifying periods of aggressive behavior than a human annotator",
+      "Performed statistical analysis, including hierarchical clustering and PCA on c-Fos expression data to identify region-specific neural activation patterns across mouse groups",
+      "Interpreted neural clustering results in the context of brain region functionality and behavioral phenotypes, contributing to ASD correlation with c-Fos protein aggregation"
+    ]
+  },
+  {
+    "id": "zylka-lab",
+    "company": "UNC School Of Medicine • Zylka Lab",
+    "position": "Undergraduate Research Assistant - Computational Neuroscience",
+    "location": "Chapel Hill, NC",
+    "startDate": "Feb 2021",
+    "endDate": "Apr 2023",
+    "type": "research",
+    "description": [
+      "Developed computer vision pipeline to quantify pain response on post-surgical mice using deep learning models to analyze facial grimace in mice",
+      "Engineered a GUI-based Raspberry Pi system to standardize high-throughput behavioral video capture, supporting scalable neuroscience experiments",
+      "Managed large volumes of behavioral video data and optimized pre-processing scripts for parallelized computation in a UNIX-based environment",
+      "Designed ML models in PyTorch to quantify locomotion patterns and docility measures in mouse trials",
+      "Leveraged DeepLabCut and DeepEthogram to automate annotation of facial and anatomical features, facilitating scalable classification of locomotion behaviors",
+      "Released open-source Python package 'PainFace' on PyPI to support automated pain behavior analysis in preclinical mouse models",
+      "Collaborated with cross-functional teams including neuroscientists and machine learning scientists to design experimental setups and validate model outputs"
+    ]
+  },
+  {
+    "id": "lenovo",
+    "company": "Lenovo",
+    "position": "Software Engineering Intern - Machine Learning Division",
+    "location": "Morrisville, NC",
+    "startDate": "June 2021",
+    "endDate": "Aug 2021",
+    "type": "work",
+    "description": [
+      "Developed Python-based API analytics tool to extract crash data patterns (BSOD) across 500,000+ endpoints using NumPy and pandas",
+      "Designed CLI tool to map system failures to root driver causes via failure bucket ID parsing, reducing diagnostic time for IT admins by 40%",
+      "Built TensorFlow model to identify predictive factors of system crashes using multi-variable input logs across enterprise-scale datasets",
+      "Documented ML pipeline for internal use by IT teams, facilitating knowledge transfer and reproducibility across teams, undergoing collaborative code review sessions"
+    ]
+  }
+]

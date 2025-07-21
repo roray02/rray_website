@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Programming Languages",
+    "items": ["Python", "R", "C", "C++", "Java", "MySQL", "JavaScript", "TypeScript", "XML"]
+  },
+  {
+    "category": "Tools & Frameworks",
+    "items": ["TensorFlow", "DeepLabCut", "DeepEthogram", "AWS/Cloud", "React Native", "Tkinter", "UNIX/Linux", "shell scripting", "Git", "Jupyter", "Raspberry Pi", "Nextflow", "Docker"]
+  },
+  {
+    "category": "Biological Data Analysis",
+    "items": ["Illumina NGS analysis", "Gene expression profiling", "Somatic variant interpretation", "Copy number variation (CNV)", "PCA", "Clustering", "Behavioral classification", "Scientific manuscript preparation"]
+  },
+  {
+    "category": "Healthcare",
+    "items": ["Epic EMR", "Medical terminology", "BLS Certified (AHA)", "EMT certification in progress", "Clinical data structure", "Decision-making workflows", "Patient encounter documentation"]
+  },
+  {
+    "category": "Laboratory",
+    "items": ["Animal handling (mice)", "Gel electrophoresis", "Immunohistochemistry", "Titration", "Organic synthesis", "NMR spectroscopy"]
+  }
+]

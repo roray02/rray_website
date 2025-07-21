@@ -1,0 +1,102 @@
+[
+  {
+    "id": "painface-package",
+    "title": "PainFace - Automated Pain Behavior Analysis",
+    "description": "Cloud-based software platform for standardized automated pain assessment in mouse models through facial grimace analysis. Assisted in development of machine learning pipeline exploring tools like DeepLabCut and DeepEthogram for precise facial landmark detection and DeepEthogram for behavioral classification to identify four key facial action units (orbitals, nose, ears, whiskers). The computer vision system generates up to one grimace score per second from standard 30fps video, providing objective pain assessment on a 0-8 scale. Validated across multiple laboratories and pain-inducing conditions, demonstrating that mice exhibit 7x more high grimace behavior following surgical procedures compared to controls.",
+    "technologies": ["Python", "PyTorch", "OpenCV", "DeepLabCut", "DeepEthogram", "Computer Vision"],
+    "category": "computational-biology",
+    "githubUrl": "https://pubmed.ncbi.nlm.nih.gov/39024163/",
+    "liveUrl": "https://pypi.org/project/painface",
+    "featured": true
+  },
+  {
+    "id": "abc-classifier",
+    "title": "Automated Behavioral Classifier for ASD Models",
+    "description": "Novel machine learning pipeline for automated behavioral analysis in autism spectrum disorder research using the 16p11.2 mouse model. Developed an analysis tool utilizing DeepLabCut for feature extraction to quantify stress-induced aggression and social interactions with 15% higher accuracy than human annotation. The classifier addresses challenges in ASD treatment by providing objective, scalable behavioral assessment that reduces unconscious bias and supports development of pharmacologic interventions with fewer side effects. Source code access restricted due to proprietary research data and institutional compliance requirements. Project presented at UNC Undergraduate Research Symposium and published in the UNC Honors Thesis repository.",
+    "technologies": ["Python", "DeepLabCut", "Machine Learning", "Statistical Analysis", "PCA"],
+    "category": "computational-biology",
+    "featured": true,
+    "githubUrl": "https://cdr.lib.unc.edu/concern/honors_theses/3b591m44h?locale=en",
+    "liveUrl": "https://docs.google.com/presentation/d/1MsqiM-ZuqADTCcQLkSTWX_STwBymuZrEyA5Ed1pOZgg/edit?usp=sharing",
+    "images": ["/screenshots/RR_PosterThesis.jpg"]
+  },
+  {
+    "id": "first-on-scene-app",
+    "title": "First On Scene Emergency Response App",
+    "description": "iOS emergency response app for college campuses providing AED locations and step-by-step medical guidance for first responders and bystanders. Previously published on the App Store during development phase. Pitched at the Gillings School of Global Public Health Pitch Competition.",
+    "technologies": ["React Native", "iOS", "Geolocation", "UI/UX Design"],
+    "category": "public-health",
+    "featured": false,
+    "images": ["/screenshots/IMG_2240.PNG", "/screenshots/IMG_2241.PNG", "/screenshots/IMG_2242.PNG", "/screenshots/IMG_2243.PNG"]
+  },
+  {
+    "id": "lenovo-crash-analyzer",
+    "title": "System Crash Analytics Tool",
+    "description": "Python-based analytics tool for extracting crash data patterns across 500,000+ endpoints, reducing IT diagnostic time by 40%. Proprietary tool developed during internship at Lenovo.",
+    "technologies": ["Python", "NumPy", "Pandas", "TensorFlow", "Data Analytics"],
+    "category": "computer-science"
+  },
+  {
+    "id": "raspberry-pi-capture",
+    "title": "High-Throughput Video Capture System",
+    "description": "GUI-based Raspberry Pi system for standardizing behavioral video capture in neuroscience experiments with automated data management.",
+    "technologies": ["Raspberry Pi", "Camera Hardware", "Python", "Tkinter", "GUI Development", "Video Processing", "Batch Processing", "UNIX"],
+    "category": "computational-biology",
+    "githubUrl": "https://github.com/roray02/PainFaceDCApp",
+    "liveUrl": "https://docs.google.com/presentation/d/1R4mEDxxgO1FUPbpfYj_FJvUZzWR-zqNt3QviL5obfsA/edit?usp=sharing",
+    "images": ["/screenshots/gui_scrot.png", "/screenshots/setup_scrot.png", "/screenshots/camera_scrot.png"]
+  },
+  {
+    "id": "neural-clustering-analysis",
+    "title": "Neural Activation Pattern Analysis",
+    "description": "Statistical analysis pipeline for c-Fos expression data using hierarchical clustering and PCA to identify region-specific neural activation patterns.",
+    "technologies": ["R", "Statistical Analysis", "PCA", "Hierarchical Clustering", "Data Visualization"],
+    "category": "computational-biology"
+  },
+  {
+    "id": "sres-restriction-enzyme-selector",
+    "title": "Smart Restriction Enzyme Selector (SRES)",
+    "description": "Web-based bioinformatics tool for molecular biologists to identify suitable restriction enzyme pairs for cloning experiments. Uses parsed REBASE database to find enzyme pairs that cut near sequence ends without internal cuts and have compatible overhangs.",
+    "technologies": ["Python", "HTML", "CGI", "MySQL", "Jinja2", "JavaScript"],
+    "category": "bioinformatics",
+    "githubUrl": "https://github.com/roray02/SRES_rray",
+    "liveUrl": "/FinalNarrative_rray16.pdf",
+    "featured": true
+  },
+  {
+    "id": "points-tracker",
+    "title": "Real-Time Points Tracker for Dating Competitions",
+    "description": "A lightweight React app connected to Firebase Realtime Database that lets two users track and update their scores in real-time. Features intuitive point adjustment buttons and a reset option.",
+    "technologies": ["React", "Firebase", "JavaScript", "HTML", "CSS"],
+    "category": "for-fun",
+    "liveUrl": "https://codepen.io/roray02/pen/GRVepLo",
+    "featured": false
+  },
+  {
+    "id": "gff3-feature-extractor",
+    "title": "GFF3 Feature Extraction Tool",
+    "description": "Basic command-line bioinformatics tool that parses GFF3 annotation files to extract specific genomic features and their corresponding DNA sequences. Handles strand-aware sequence processing and embedded FASTA extraction from real yeast genome data.",
+    "technologies": ["Python", "Bioinformatics", "File Parsing", "FASTA", "GFF3", "Command Line"],
+    "category": "bioinformatics",
+    "githubUrl": "https://github.com/roray02/gff3-feature-extractor",
+    "featured": false
+  },
+  {
+    "id": "blast-output-parser",
+    "title": "BLAST Output Parser",
+    "description": "Bioinformatics tool that extracts key information from BLAST search results using advanced regular expressions. Parses query information, alignment data, and accession numbers from complex multi-line BLAST output files.",
+    "technologies": ["Python", "Regular Expressions", "BLAST", "Bioinformatics", "Pattern Matching"],
+    "category": "bioinformatics",
+    "githubUrl": "https://github.com/roray02/blast-output-parser",
+    "featured": false
+  },
+  {
+    "id": "reverse-complement-calculator",
+    "title": "DNA Reverse Complement Calculator",
+    "description": "Very basic bioinformatics tool for calculating reverse complements of DNA sequences with robust input validation. Implements proper base-pair mapping and 5' to 3' orientation handling for molecular biology applications.",
+    "technologies": ["Python", "DNA Analysis", "Bioinformatics", "Molecular Biology", "Input Validation"],
+    "category": "bioinformatics",
+    "githubUrl": "https://github.com/roray02/reverse-complement-calculator",
+    "featured": false
+  }
+]

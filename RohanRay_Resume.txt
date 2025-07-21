@@ -1,0 +1,83 @@
+
+
+Rohan Ray
+112 Rattle Snap Ct. • Cary, NC 27519 • rohray02@gmail.com • (919) 457-3221 • https://github.com/roray02
+
+
+
+
+Experience
+
+MEDSCRIBES											     	           Raleigh, NC
+  Chief Medical Scribe – UNC REX Hospital Emergency Department             	                     	         Feb 2023 – Nov 2024
+* Documented medical records for 3,000+ ER patients, gaining extensive familiarity with structured clinical data and Epic EMR systems
+* Interpreted and flagged critical lab anomalies for ER physicians, contributing to real-time clinical decision-making for patients with varying acuity
+* Trained batch of 10+ new scribes in medical terminology, EMR workflows, and chart documentation protocols; organized sessions on Epic proficiency
+* Produced e-learning modules to onboard scribes in documentation standards using Moodle LMS
+
+UNC DEPARTMENT OF NEUROSCIENCE							                   Chapel Hill, NC
+  Undergraduate Research Assistant – Honors Thesis Student – Christoffel Lab		        Aug 2023 – May 2024
+* Authored senior thesis on the development of an automated behavioral classifier (ABC) for aggression and social interaction in ASD (autism spectrum disorder) mouse models using DeepLabCut-based locomotion metrics.
+* Defended thesis to a neuroscience faculty panel, showcasing classifier performance and validation techniques on previously untested videos of ASD model mice interacting with wildtype mice. ABC was 15% more accurate at identifying periods of aggressive behavior than a human annotator.
+* Performed statistical analysis, including hierarchical clustering and PCA on c-Fos expression data to identify region-specific neural activation patterns across mouse groups.
+* Interpreted neural clustering results in the context of brain region functionality and behavioral phenotypes, contributing to ASD correlation with c-Fos protein aggregation
+
+UNC SCHOOL OF MEDICINE – ZYLKA LAB							 	      Chapel Hill, NC
+  Undergraduate Research Assistant – Computational Biology (Neuroscience)	                       Feb 2021 – Apr 2023
+* Developed computer vision pipeline to quantify pain response on post-surgical mice using deep learning models to analyze facial grimace in mice.
+* Engineered a GUI-based Raspberry Pi system to standardize high-throughput behavioral video capture, supporting scalable neuroscience experiments
+* Managed large volumes of behavioral video data and optimized pre-processing scripts for parallelized computation in a UNIX-based environment
+* Designed ML models in PyTorch to quantify locomotion patterns and docility measures in mouse trials
+* Used model output to support analysis of aggression-linked behavioral phenotypes
+* Leveraged DeepLabCut and DeepEthogram to automate annotation of facial and anatomical features, facilitating scalable classification of locomotion behaviors
+* Released open-source Python package ‘PainFace’ on PyPI to support automated pain behavior analysis in preclinical mouse models -- https://pypi.org/project/painface
+* Collaborated with cross-functional teams including neuroscientists and machine learning scientists to design experimental setups and validate model outputs
+
+LENOVO                                                                                                                                                                Morrisville, NC
+  Software Engineering (Machine Learning) Intern	         June 2021 – Aug 2021
+* Developed Python-based API analytics tool to extract crash data patterns (BSOD) across 500,000+ endpoints using NumPy and pandas
+* Designed CLI tool to map system failures to root driver causes via failure bucket ID parsing, reducing diagnostic time for IT admins by 40%
+* Built TensorFlow model to identify predictive factors of system crashes using multi-variable input logs across enterprise-scale datasets
+* Documented ML pipeline for internal use by IT teams, facilitating knowledge transfer and reproducibility across teams, undergoing collaborative code review sessions
+
+
+Leadership & Service Experience
+FIRST ON SCENE APP                                                                                                                                            Chapel Hill, NC
+Chief Technical Officer                                                                                                      	        Sept 2022 – Nov 2023
+* Developed an iOS emergency response app in React Native to assist first responders and bystanders in Raleigh-Durham area college campuses in locating AEDs and delivering step-by-step medical guidance
+* Integrated real-time geolocation services and created an intuitive user interface design for rapid access to critical intervention tools
+* Presented at UNC Gillings School of Public Health Pitch Competition, earning 3rd place.
+
+ASHA (Accredited Social Health Activist)                                                                                                              Kolkata, India
+Volunteer Health Assistant	        May 2021 – June 2021
+* Assisted in public health efforts by providing access to essential medications (e.g., insulin, antihypertensives) to rural farming communities
+* Supported ASHA workers in delivering antenatal care education and administered Td vaccines to preteens
+
+UNC PHI DELTA EPSILON                                                                                                                                      Chapel Hill, NC
+Finance Committee                                                                                                                       	        May 2022 – May 2023
+* Organized events like the Anatomy Fashion Show to raise over $10,000 and awareness for Children’s Miracle Network at Duke Children’s hospital.
+
+Skills & Interests
+Programming Languages: Python, R, C, C++, Java, MySQL, JavaScript, XML
+Tools & Frameworks: TensorFlow, DeepLabCut, DeepEthogram, AWS/Cloud, React Native, Tkinter, UNIX/Linux, shell scripting, Git, Jupyter, Raspberry Pi hardware, Nextflow, Docker
+Biological data analysis: Illumina next-generation sequencing (NGS) analysis, gene expression profiling, somatic variant interpretation, copy number variation (CNV), PCA, clustering, behavioral classification, and scientific manuscript preparation
+Healthcare: Epic EMR, medical terminology, BLS Certified (AHA), EMT certification in progress. Experienced with clinical data structure, decision-making workflows, and patient encounter documentation.
+Laboratory: Certified in animal handling (mice). Molecular biology: gel electrophoresis, immunohistochemistry. Chemistry: titration, organic synthesis, NMR spectroscopy.
+Interests: Translational cancer genomics, emergency medicine AI, digital health innovation
+
+
+Education
+JOHNS HOPKINS UNIVERSITY 	   Baltimore, MD
+Master of Science in Bioinformatics                                                                                                                            (Expected August 2025)
+Current GPA: 3.94
+Relevant Courses: Genomic & Personalized Medicine, Epigenetics, Gene Organization & Expression, Clinical Trial Design and Conduct, Algorithms for Bioinformatics, Advanced Practical Bioinformatics & Computer Concepts, Principles and Methods in Machine Learning
+
+UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL 	    Chapel Hill, NC
+Bachelor of Science in Neuroscience (Honors), Bachelor of Science in Computer Science                                           2020-2024
+Minor: Chemistry | GPA: Neuroscience – 3.91, CS – 3.86	         
+Awards: Dean’s List – Fall/Spring 2024; Fall/Spring 2023; Fall 2022 -- Graduated with Honors in Neuroscience
+Activities and Involvement: Phi Delta Epsilon, UNC Sangam, Student Health Action Coalition (SHAC), Carolina Adapts Toys for Children (CATCH), Honors Thesis, Undergraduate Research Ambassador
+Relevant Coursework/Experience: COMP 210: Data Structures, COMP 550: Algorithms and Analysis, COMP 283: Discrete Structures, CHEM 261/262: Organic Chemistry, COMP 421: Files and Databases, COMP 523: Software Engineering Lab, BIOL 205: Cell and Developmental Biology, NSCI 693H/694H: Honors in Neuroscience
+
+
+

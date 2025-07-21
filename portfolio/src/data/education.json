@@ -1,0 +1,53 @@
+[
+  {
+    "id": "johns-hopkins",
+    "institution": "Johns Hopkins University",
+    "degree": "Master of Science in Bioinformatics",
+    "location": "Baltimore, MD",
+    "startDate": "2024",
+    "endDate": "Expected August 2025",
+    "gpa": "3.94",
+    "logo": "/logos/Johns-Hopkins-University-Symbol.png",
+    "coursework": [
+      "Genomic & Personalized Medicine",
+      "Epigenetics",
+      "Gene Organization & Expression",
+      "Clinical Trial Design and Conduct",
+      "Algorithms for Bioinformatics",
+      "Advanced Practical Bioinformatics & Computer Concepts",
+      "Principles and Methods in Machine Learning"
+    ]
+  },
+  {
+    "id": "unc-chapel-hill",
+    "institution": "University of North Carolina at Chapel Hill",
+    "degree": "Bachelor of Science in Neuroscience (Honors), Bachelor of Science in Computer Science",
+    "location": "Chapel Hill, NC",
+    "startDate": "2020",
+    "endDate": "2024",
+    "gpa": "Neuroscience – 3.91, CS – 3.86",
+    "logo": "/logos/UNC-Seal-Logo.png",
+    "awards": [
+      "Dean's List – Fall/Spring 2024; Fall/Spring 2023; Fall 2022",
+      "Graduated with Honors in Neuroscience"
+    ],
+    "activities": [
+      "Phi Delta Epsilon",
+      "UNC Sangam",
+      "Student Health Action Coalition (SHAC)",
+      "Carolina Adapts Toys for Children (CATCH)",
+      "Honors Thesis",
+      "Undergraduate Research Ambassador"
+    ],
+    "coursework": [
+      "COMP 210: Data Structures",
+      "COMP 550: Algorithms and Analysis",
+      "COMP 283: Discrete Structures",
+      "CHEM 261/262: Organic Chemistry",
+      "COMP 421: Files and Databases",
+      "COMP 523: Software Engineering Lab",
+      "BIOL 205: Cell and Developmental Biology",
+      "NSCI 693H/694H: Honors in Neuroscience"
+    ]
+  }
+]

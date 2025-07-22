@@ -176,8 +176,8 @@ export default function ProjectsPage() {
   const filters = [
     { key: 'all' as FilterType, label: 'All Projects' },
     { key: 'featured' as FilterType, label: 'Featured' },
-    { key: 'computational-biology' as FilterType, label: 'Computational Biology' },
     { key: 'bioinformatics' as FilterType, label: 'Bioinformatics' },
+    { key: 'computational-biology' as FilterType, label: 'Computational Biology' },
     { key: 'computer-science' as FilterType, label: 'Computer Science' },
     { key: 'public-health' as FilterType, label: 'Public Health' },
     { key: 'for-fun' as FilterType, label: 'For Fun' },
@@ -235,19 +235,6 @@ export default function ProjectsPage() {
             </FeaturedSection>
           )}
 
-          <CategorySection>
-            <CategoryTitle className="computational-biology">Computational Biology Projects</CategoryTitle>
-            <ProjectsGrid
-              variants={containerVariants}
-              initial="hidden"
-              animate="visible"
-            >
-              {computationalBiologyProjects.map((project) => (
-                <ProjectCard key={project.id} project={project} />
-              ))}
-            </ProjectsGrid>
-          </CategorySection>
-
           {bioinformaticsProjects.length > 0 && (
             <CategorySection>
               <CategoryTitle className="bioinformatics">Bioinformatics Projects</CategoryTitle>
@@ -262,6 +249,19 @@ export default function ProjectsPage() {
               </ProjectsGrid>
             </CategorySection>
           )}
+
+          <CategorySection>
+            <CategoryTitle className="computational-biology">Computational Biology Projects</CategoryTitle>
+            <ProjectsGrid
+              variants={containerVariants}
+              initial="hidden"
+              animate="visible"
+            >
+              {computationalBiologyProjects.map((project) => (
+                <ProjectCard key={project.id} project={project} />
+              ))}
+            </ProjectsGrid>
+          </CategorySection>
 
           <CategorySection>
             <CategoryTitle className="computer-science">Computer Science Projects</CategoryTitle>
